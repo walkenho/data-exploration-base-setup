@@ -1,2 +1,2 @@
 # data-exploration-base-setup
-Base Repository for Quick Data Exploration
+A small base repository for quick data explorations for example as part of a hackathon. 
