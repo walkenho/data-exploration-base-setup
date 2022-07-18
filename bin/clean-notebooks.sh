@@ -1,2 +1,2 @@
 #!/bin/bash
-poetry run jupypter nbconvert --clear-output --inplace notebooks/*.ipynb 
+poetry run jupyter nbconvert --clear-output --inplace notebooks/*.ipynb 
